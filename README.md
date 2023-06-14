@@ -8,7 +8,9 @@ including the development of sales support systems and e-commerce sites.
 > Java, Kotlin, Spring Boot  
 
 I'm currently learning Golang, Echo,  and Gorm  
-in preparation for my next job/project. 🏃
+in preparation for my next job/project. 🏃　　
+
+While I'm still honing my skills, I'm committed to collective growth. 🥳　
 
 <!--
 **zksytmkn/zksytmkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
