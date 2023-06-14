@@ -1,4 +1,4 @@
-## Hi there !
+## Hi there ✋
 
 I'm a web developer with two years of experience.  
 I have practical experience using the following technologies.
