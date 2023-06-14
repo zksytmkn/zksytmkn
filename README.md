@@ -1,11 +1,13 @@
 ## ✨ Hi there ✨
 
 I'm a web developer with two years of experience.  
-I have practical experience using the following technologies.
+I've used the following technologies in practical settings,  
+including the development of sales support systems and e-commerce sites.  
 > TypeScript, React, Next.js, Vue.js, Nuxt.js  
 > Java, Kotlin, Spring Boot  
 
-I'm currently learning Golang, Echo and Gorm.  
+I'm currently learning Golang, Echo and Gorm. 🏃
+
 
 <!--
 **zksytmkn/zksytmkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
