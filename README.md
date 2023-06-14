@@ -7,8 +7,8 @@ including the development of sales support systems and e-commerce sites.
 > TypeScript, React, Next.js, Vue.js, Nuxt.js  
 > Java, Kotlin, Spring Boot  
 
-I'm currently learning Golang, Echo and Gorm. 🏃
-
+I'm currently learning Golang, Echo,  and Gorm  
+in preparation for my next job/project. 🏃
 
 <!--
 **zksytmkn/zksytmkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
