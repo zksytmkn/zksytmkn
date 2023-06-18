@@ -4,6 +4,7 @@ I'm a web developer with two years of experience.
 I've used the following technologies in practical settings,  
 including the development of sales support systems and e-commerce sites.  
 > TypeScript, React, Next.js, Vue.js, Nuxt.js  
+> Node.js, Nest.js   
 > Java, Kotlin, Spring Boot  
 
 I'm currently learning Golang, Echo,  and Gorm  
