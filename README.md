@@ -11,6 +11,8 @@ While I'm still honing my skills, I'm committed to collective growth. 🥳　　
 
 <img
   alt="technologies"
+  width="50%"
+  height="50%"
   src="https://skillicons.dev/icons?theme=light&perline=10&i=html,css,sass,js,ts,vue,nuxtjs,react,nextjs,materialui,tailwind,figma,java,kotlin,spring,ruby,rails,go,nestjs,graphql,apollo,mongodb,mysql,postgres,firebase,supabase,aws,netlify,docker,nginx,github,githubactions,gradle,maven,jest,postman,vscode,powershell,linux"
  />
 
