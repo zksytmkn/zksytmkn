@@ -1,16 +1,25 @@
 ## ✨ Hi there ✨
 
 I'm a web developer with two years of experience.  
-I've used the following technologies in practical settings,  
-including the development of sales support systems and e-commerce sites.  
-> TypeScript, React, Next.js, Vue.js, Nuxt.js (FE)  
-> Node.js, Nest.js (BFF)  
-> Java, Kotlin, Spring Boot (BE)  
+I've used the following languages and tools in practical settings,  
+including the development of sales support systems and e-commerce sites,  
+as well as in personal development endeavors. 🏃  
 
-I'm currently learning Golang, Echo,  and Gorm  
-in preparation for my next job/project. 🏃　　
+While I'm still honing my skills, I'm committed to collective growth. 🥳　　　
 
-While I'm still honing my skills, I'm committed to collective growth. 🥳　
+### Languages and Tools
+
+<img
+  alt="technologies"
+  src="https://skillicons.dev/icons?theme=light&perline=10&i=html,css,sass,js,ts,vue,nuxtjs,react,nextjs,materialui,tailwind,figma,java,kotlin,spring,ruby,rails,go,nestjs,graphql,apollo,mongodb,mysql,postgres,firebase,supabase,aws,netlify,docker,nginx,github,githubactions,gradle,maven,jest,postman,vscode,powershell,linux"
+ />
+
+### My GitHub Statistics
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zksytmkn&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=zksytmkn" />
+</p>
 
 <!--
 **zksytmkn/zksytmkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
