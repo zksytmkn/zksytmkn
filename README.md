@@ -1,7 +1,7 @@
 ## ✨ Hi there ✨
 
 I'm a web developer with two years of experience.  
-I've used the following languages and tools in practical settings,  
+I've used the following languages and Tools in practical settings,  
 including the development of sales support systems and e-commerce sites,  
 as well as in personal development endeavors. 🏃  
 
