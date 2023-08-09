@@ -14,6 +14,8 @@ While I'm still honing my skills, I'm committed to collective growth. 🥳　　
   src="https://skillicons.dev/icons?theme=light&perline=10&i=html,css,sass,js,ts,vue,nuxtjs,react,nextjs,materialui,tailwind,figma,java,kotlin,spring,ruby,rails,go,nestjs,graphql,apollo,mongodb,mysql,postgres,firebase,supabase,aws,netlify,docker,nginx,github,githubactions,gradle,maven,jest,postman,vscode,powershell,linux"
  />
 
+ https://github.com/tandpfun/skill-icons#readme
+
 ### My GitHub Statistics
 
 <p align="left"> 
