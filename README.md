@@ -1,4 +1,4 @@
-## ✨ Hi there ✨
+**✨ Hi there ✨**
 
 I'm a web developer with two years of experience.  
 I've used the following languages and Tools in practical settings,  
@@ -7,7 +7,7 @@ as well as in personal development endeavors. 🏃
 
 While I'm still honing my skills, I'm committed to collective growth. 🥳　　　
 
-### Languages and Tools
+**Languages and Tools**
 
 <img
   alt="technologies"
@@ -18,7 +18,7 @@ While I'm still honing my skills, I'm committed to collective growth. 🥳　　
 
  https://github.com/tandpfun/skill-icons#readme
 
-### My GitHub Statistics
+**My GitHub Statistics**
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zksytmkn&layout=compact&show_icons=true&theme=tokyonight" />
